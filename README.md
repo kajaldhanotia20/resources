@@ -30,3 +30,6 @@ A very simple type of CTF challenge consists of looking at the source code of we
 
 You may be able to solve some CTF challenges after looking through the documents in this repository and understanding the basics of the technologies and subjects covered, but you won't be very proficient or successful for long. To be an adept CTF competitor you have to be able to combine many different strategies and tools to find the flag.  Developing the ability to find flags quickly takes practice more than anything, and participating in numerous CTFs will allow you to expand your understanding and abilities, leading you to success. Spend some time on [CTFTime](https://ctftime.org/) working through CTFs to truly improve and learn.
 
+#Amazon Web Services
+
+Whether you're looking for compute power, a database storage, a content delivery platform, or other functionalities, AWS has all the services to help you build sophisticated applications with increased flexibility, scalability and reliability.
